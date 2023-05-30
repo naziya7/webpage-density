@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "webpage",
+=======
+  "name": "density",
+>>>>>>> 5a662ad (Initialize project using Create React App)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
